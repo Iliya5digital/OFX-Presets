@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.sonycreativesoftware:colorcorrectorsecondary" context="Filter" name="G-Major 11">
+<OfxPlugin>com.sonycreativesoftware:colorcorrectorsecondary</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeDouble2D name="Chrominance"><OfxParamValue>0.000000 0.000000</OfxParamValue></OfxParamTypeDouble2D>
+<OfxParamTypeDouble name="RotateHue"><OfxParamValue>225.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Saturation"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Gamma"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Gain"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Offset"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Alpha"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="ShowMask"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeBoolean name="InvertMask"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeBoolean name="EnableLimitLuminance"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="LimitLuminanceLow"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitLuminanceHigh"><OfxParamValue>255.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitLuminanceSmooth"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="EnableLimitSaturation"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="LimitSaturationLow"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitSaturationHigh"><OfxParamValue>162.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitSaturationSmooth"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="EnableLimitHue"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="LimitHueCenter"><OfxParamValue>180.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitHueWidth"><OfxParamValue>360.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="LimitHueSmooth"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+</OfxPreset>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.sonycreativesoftware:hsladjust" context="Filter" name="G-Major 21">
+<OfxPlugin>com.sonycreativesoftware:hsladjust</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeDouble name="AddToHue"><OfxParamValue>0.050000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Saturation"><OfxParamValue>2.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Luminance"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+</OfxPreset>

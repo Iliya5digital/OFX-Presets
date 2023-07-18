@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.sonycreativesoftware:colorbalance" context="Filter" name="Windy Wah Wah 2.0 Windigo">
+<OfxPlugin>com.sonycreativesoftware:colorbalance</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeDouble name="Red"><OfxParamValue>-0.075000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Green"><OfxParamValue>-0.475000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Blue"><OfxParamValue>0.475000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeChoice name="Type"><OfxParamValue>2</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeBoolean name="PreserveLuminosity"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+</OfxPreset>

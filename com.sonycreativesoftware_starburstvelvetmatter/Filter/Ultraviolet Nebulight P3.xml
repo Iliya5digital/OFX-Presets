@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.sonycreativesoftware:starburstvelvetmatter" context="Filter" name="Ultraviolet Nebulight P3">
+<OfxPlugin>com.sonycreativesoftware:starburstvelvetmatter</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeDouble name="Threshold"><OfxParamValue>35.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Brilliance"><OfxParamValue>1000.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Strength"><OfxParamValue>100.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Radius"><OfxParamValue>18.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeInteger name="Points"><OfxParamValue>5</OfxParamValue></OfxParamTypeInteger>
+<OfxParamTypeDouble name="CenterBurst"><OfxParamValue>45.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Aspect"><OfxParamValue>0.500000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Orientation"><OfxParamValue>165.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="SoftenEdges"><OfxParamValue>50.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="ReduceFlicker"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeBoolean name="EffectOnly"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+</OfxPreset>

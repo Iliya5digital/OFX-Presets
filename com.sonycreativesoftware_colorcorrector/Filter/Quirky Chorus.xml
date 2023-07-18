@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.sonycreativesoftware:colorcorrector" context="Filter" name="Quirky Chorus">
+<OfxPlugin>com.sonycreativesoftware:colorcorrector</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeDouble2D name="Low"><OfxParamValue>16.950000 1.000000</OfxParamValue></OfxParamTypeDouble2D>
+<OfxParamTypeDouble2D name="Mid"><OfxParamValue>186.560000 1.000000</OfxParamValue></OfxParamTypeDouble2D>
+<OfxParamTypeDouble2D name="High"><OfxParamValue>260.070000 0.966900</OfxParamValue></OfxParamTypeDouble2D>
+<OfxParamTypeDouble name="Saturation"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Gamma"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Gain"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Offset"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+</OfxPreset>
